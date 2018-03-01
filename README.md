@@ -1,6 +1,6 @@
 # Test Firebase Cloud Messaging
 
-You can test usage on page: https://github.com/serveriev/serviceworker
+You can test usage on page: https://serveriev.github.io/serviceworker/
 
 <img src="ScreenRecord.gif" alt="" align="center">
 
